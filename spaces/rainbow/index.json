@@ -1,0 +1,13 @@
+{
+  "key": "rainbow",
+  "symbol": "RAINBOW",
+  "name": "Magical Liquidity",
+  "defaultView": "core",
+  "address": "0x33c23d44679433a88b89ca38d3311a9a3d160699",
+  "token": "0x33c23d44679433a88b89ca38d3311a9a3d160699",
+  "core": [
+    "0xe403919b85ebbd56de88ef1459886f4b57cea9ea"
+  ],
+  "min": 0,
+  "invalid": []
+}
